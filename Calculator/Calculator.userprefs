@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{1854159D-F0D5-41AA-84C2-EC63E861273D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator2/Sum.cs">
+    <Files>
+      <File FileName="Calculator2/CalculatorMusthaves.cs" Line="12" Column="9" />
+      <File FileName="Calculator2/CalculatorShouldhaves.cs" Line="1" Column="1" />
+      <File FileName="Calculator2/Program.cs" Line="1" Column="1" />
+      <File FileName="Calculator2/Sum.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Calculator2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
